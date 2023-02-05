@@ -32,6 +32,9 @@
 
 执行：npm build 或 yarn build
 
+## 关于真实API请求（非mock.js模拟请求）
+
+本Demo不包含后端API服务。如在开发环境使用反向代理请求API，或者在build后的正式插件中请求API，请自行搭建后端API服务，返回的数据可参照src/mock.js或教程中相应章节的截图。
 
 ## 配套教程
 
